@@ -1,0 +1,8 @@
+apache-airflow==2.6.3
+kaggle==1.5.13
+pandas==2.0.3
+numpy==1.24.3
+sqlalchemy==1.4.47
+beautifulsoup4==4.12.2
+requests==2.31.0
+python-dotenv==1.0.0
